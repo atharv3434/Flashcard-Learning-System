@@ -2,7 +2,7 @@
 
 
 
-🧠 Flashcard Learning System (Java-Only Project)
+🧠 Flashcard Learning System 
 A console-based Flashcard Learning System that allows users to create, view, edit, delete, and test themselves with flashcards. Built entirely in Java, using file-based storage for persistence.
 
 📌 Features
@@ -14,9 +14,7 @@ A console-based Flashcard Learning System that allows users to create, view, edi
 ✔ Save & Load Flashcards from File
 
 📂 Project Structure
-css
-Copy
-Edit
+
 FlashcardSystem/
 │── src/
 │   ├── Main.java
